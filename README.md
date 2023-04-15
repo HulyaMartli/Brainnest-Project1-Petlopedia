@@ -1,5 +1,8 @@
 # PETLOPEDIA: Brainnest FD Training | Week1 - Project 1 (ongoing project)
-Project 1 for week of April 10-14, 2023 in the scope of Brainnest Frontend Development Industry Training
+
+Petlopedia is a pet encyclopedia for pet enthusiasts! You can learn more about our most beloved friends' species history, breeds, behaviors, and much more in Petlopedia!
+
+Project 1 for week of April 10-14, 2023 in the scope of Brainnest Frontend Development Industry Training.
 
 ## Assignment Details
 Use HTML only, CSS or JavaScript is not allowed.

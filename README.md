@@ -10,7 +10,9 @@ page where additional information about said subject can be found(images are alw
 
 ## Preview
 
-[Petlopedia]()
+[Petlopedia](https://petlopedia.vercel.app/)
+
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaUKQ_OYJpaZkN77jFa-QPIl_wo-B1WTXAHzJxrmkHTG9LHAPJ-wXbM6x1cm0NJibssXLyx03bG9g1ByX7o2w7RekHUt4IC_mrr8eLYVVOVUajtR2KrfN8tSWdczJ-MjqlV1ypx4AWhu-p1yZusOEoCIVQ=w520-h846-s-no?authuser=0" width="300" alt="Petlopedia Home Page Preview" title="Petlopedia Home Page Preview">
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

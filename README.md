@@ -1,4 +1,4 @@
-# Brainnest FD Training | Week1 - Project 1 (Petlopedia - ongoing project)
+# PETLOPEDIA: Brainnest FD Training | Week1 - Project 1 (ongoing project)
 Project 1 for week of April 10-14, 2023 in the scope of Brainnest Frontend Development Industry Training
 
 ## Assignment Details

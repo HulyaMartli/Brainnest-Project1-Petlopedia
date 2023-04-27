@@ -24,4 +24,4 @@ page where additional information about said subject can be found(images are alw
 * [Google Images](https://images.google.com/) - breed photos are taken from Google Images
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) 
